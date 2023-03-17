@@ -161,11 +161,11 @@ class DbTest extends \Mockery\Adapter\Phpunit\MockeryTestCase
     {
         return
             '{
-            "id":"https://login.salesforce.com/id/00Dx0000000BV7z/005x00000012Q9P",
-            "issued_at":"1278448384422",
-            "instance_url":"https://na1.salesforce.com/",
-            "signature":"SSSbLO/gBhmmyNUvN18ODBDFYHzakxOMgqYtu+hDPsc=",
-            "access_token":"00Dx0000000BV7z!AR8AQP0jITN80ESEsj5EbaZTFG0RNBaT1cyWk7TrqoDjoNIWQ2ME_sTZzBjfmOE6zMHq6y8PIW4eWze9JksNEkWUl.Cju7m4"
+            "id":"",
+            "issued_at":"",
+            "instance_url":"",
+            "signature":"",
+            "access_token":""
         }';
     }
 
